@@ -1,0 +1,2 @@
+# INIreader
+Simple INI-Reader
